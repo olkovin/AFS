@@ -180,13 +180,30 @@ chown -R user:group /destination/path
 
 ## License
 
-MIT License - See LICENSE file for details
+**Copyright (c) 2025 olkovin. All Rights Reserved.**
+
+This software is proprietary and confidential.
+
+### You MAY:
+- ✅ Use the code for personal, non-commercial purposes
+- ✅ Study the code for educational purposes
+
+### You MAY NOT:
+- ❌ Copy, redistribute, or share the code
+- ❌ Modify or create derivative works
+- ❌ Use for commercial purposes
+- ❌ Resell or sublicense
+
+For commercial licensing or special permissions, contact: **t.me/olekovin**
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
 
 ## Contributing
 
-Pull requests welcome! Please test changes with `--dry-run` before submitting.
+This is a closed-source project. Issues and suggestions are welcome, but pull requests will not be accepted without prior agreement.
 
 ## Credits
 
-Created by the brave and clever Claude Opus 4.1 and the persistent @olekovin who loves solving problems 🚀
+Created by the brave and clever Claude Opus 4.1 and the persistent @olkovin who loves solving problems 🚀
+
 Originally developed for organizing scanned documents from network scanners.
